@@ -1,0 +1,21 @@
+*{
+    font-family:sans-serif;
+}
+
+.container{
+    max-width: 600px;
+    background-color:#bcb88a;
+    margin:auto;
+    padding: 20px;
+}
+
+h1{
+    text-align:center;
+    
+}
+img{
+    display:block;
+    max-width:300px;
+    margin:auto;
+    border-radius: 50%;
+}
